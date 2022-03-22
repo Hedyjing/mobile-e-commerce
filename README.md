@@ -1,4 +1,4 @@
-# jingdong
+# Mobile E-Commerce
 
 ## Project setup
 ```
